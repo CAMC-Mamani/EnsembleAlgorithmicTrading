@@ -1,0 +1,2 @@
+# EnsembleAlgorithmicTrading
+Final Master Project
